@@ -1,0 +1,8 @@
+Mode: built-in image_gen
+Use case: stylized-concept
+Asset type: standalone DTF textile illustration, transparent PNG, portrait composition.
+Primary request: "Linux und KI", following a textile design guide emphasizing simple bold forms and robust print details.
+Subject: a distinctive friendly Linux Tux penguin, black body, white belly and face, warm yellow beak and feet, holding a substantial stylized AI processor at chest level. The chip has a simple bold neural-network symbol with a few large connected nodes. A few broad circuit branches integrate with the main silhouette. Confident, clever expression.
+Style: polished graphic screenprint-inspired illustration, crisp flat opaque colors, strong thick contours, sophisticated balanced composition, readable at a distance. Black, white, golden yellow and restrained teal accents. No photorealism.
+Text verbatim: "LINUX & KI" in large bold clean block sans-serif lettering underneath, integrated into the composition, generous open counters and thick strokes.
+Constraints: transparent background with genuine alpha, no background rectangle, no shirt mockup. Clean hard outer edges, preserve opaque white printed shapes. No glow, soft shadow, smoke, translucent effects, distressed textures, tiny isolated particles or fine lines. All lines, gaps and connections visually robust, designed to be at least 1 mm at a future 250 mm print width. Large open negative spaces, no enclosing solid badge. Motif fills canvas with modest safety margin. Output highest practical resolution.
